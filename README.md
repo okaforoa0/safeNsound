@@ -4,9 +4,13 @@ SafeNSound is a wearable safety system designed to enhance situational awareness
 
 **Features**:
 🔥 **Thermal Detection:** MLX90640 thermal camera monitors surrounding temperature changes.
+
 🛑 **Audio Alerts:** Piezoelectric siren triggered via physical button.
+
 ⚡ **Haptic Feedback:** DRV2605 vibration motor activates when heat threshold is exceeded.
+
 📡 **IoT Integration:** Sends center temperature readings to Adafruit IO for remote monitoring.
+
 🧠 **Embedded Logic:** Runs on an ESP32 using C++ and Arduino libraries.
 
 **Components:**
