@@ -15,10 +15,17 @@ SafeNSound is a wearable safety system designed to enhance situational awareness
 🧠 **Embedded Logic:** Runs on an ESP32 using C++ and Arduino libraries.
 
 **Components:**
+
 -Adafruit ESP32 Feather
+
 -MLX90640 Thermal Camera
+
 -DRV2605L Haptic Motor Controller
+
 -Piezo Siren
+
 -Push Button
+
 -Rocker Switch
+
 -Adafruit IO (for data visualization)
